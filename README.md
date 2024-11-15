@@ -1,3 +1,6 @@
+<div class="markdown heading" dir="auto">
+<h3 align="center" class="heading-element" dir="auto"> libitina . ୨ৎ </h3>
+<hr> </hr> 
 <p align="center" dir="auto">
 <a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO?si=c3b90d8770584c6e" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F711C0FB&center=true&vCenter=true&width=435&lines=All+my+friends+are+dead;Push+me+to+the+edge" alt="Typing SVG" /></a>
 </p>
