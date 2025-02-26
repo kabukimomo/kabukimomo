@@ -1,9 +1,8 @@
 <div class="markdown heading" dir="auto">
-<h3 align="center" class="heading-element" dir="auto"> libitina . ୨ৎ </h3>
+<h3 align="center" class="heading-element" dir="auto"> helen otis . ୨ৎ </h3>
 <hr> </hr> 
 <p align="center" dir="auto">
-<a href="https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4?si=6732138a4ede4057" rel="nofollow">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=850&pause=1000&color=F718DF&width=435&lines=I'm+gon'+make+it+out;Promise+I'm+gon'+make+it+out;Mama%2C+I'm+gon'+make+it+out%2C;Pussy%2C+I'm+gon'+make+it+out;I+ain't+never+had+a+doubt+inside+me;And+if+I+ever+told+you+that+I+did%E2%80%93;I'm+fuckin'+lying%2C;Can+you+feel+the+light%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=200&duration=2000&pause=300&color=233BFF&width=440&lines=Well%2C+I+know+you+lay+in+bed;Contemplating+your+own+death;Well%2C+just+look+at+what+you've+done;Don't+you+dare+forget+the+sun%2C+love." alt="Typing SVG" /></a>
 </p>
 
 <div>
