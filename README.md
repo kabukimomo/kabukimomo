@@ -2,7 +2,7 @@
 <h3 align="center" class="heading-element" dir="auto"> helen otis . ୨ৎ </h3>
 <hr> </hr> 
 <p align="center" dir="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=200&duration=2000&pause=300&color=233BFF&width=440&lines=Well%2C+I+know+you+lay+in+bed;Contemplating+your+own+death;Well%2C+just+look+at+what+you've+done;Don't+you+dare+forget+the+sun%2C+love." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&duration=2000&pause=300&color=233BFF&width=440&lines=Well%2C+I+know+you+lay+in+bed;Contemplating+your+own+death;Well%2C+just+look+at+what+you've+done;Don't+you+dare+forget+the+sun%2C+love." alt="Typing SVG" /></a>
 </p>
 
 <div>
