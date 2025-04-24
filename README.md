@@ -6,8 +6,15 @@
 </p>
 
 <div>
+  <p align="center" dir="auto">
+  <img src="https://i.pinimg.com/736x/33/17/90/331790c54d36cb3b7ad214526ca2700b.jpg">
+    </div>
+  </p>
+  <div>
+ <br>
   <img src="https://static.wikia.nocookie.net/planetoftheapes/images/1/1f/Caesar_-_CE_%282%29.png/revision/latest?cb=20220402161204" alt="Girl in a jacket" width="40" height="40">
-
+  </div>
+  
 <kbd>
   <br>
   Im gayer
