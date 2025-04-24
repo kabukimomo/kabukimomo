@@ -7,7 +7,7 @@
 
 <div>
   <p align="center" dir="auto">
-  <img src="https://i.pinimg.com/736x/33/17/90/331790c54d36cb3b7ad214526ca2700b.jpg">
+  <img src="https://i.pinimg.com/736x/33/17/90/331790c54d36cb3b7ad214526ca2700b.jpg" alt="light imagay"width="1000" height="800">
     </div>
   </p>
   <div>
