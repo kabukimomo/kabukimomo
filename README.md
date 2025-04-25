@@ -1,14 +1,26 @@
 <div class="markdown heading" dir="auto">
-<h3 align="center" class="heading-element" dir="auto"> helen otis . ♱ </h3>
+<h3 align="center" class="heading-element" dir="auto"> lol hi</h3>
 <hr> </hr> 
 <p align="center" dir="auto">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&duration=2000&pause=300&color=233BFF&width=440&lines=Well%2C+I+know+you+lay+in+bed;Contemplating+your+own+death;Well%2C+just+look+at+what+you've+done;Don't+you+dare+forget+the+sun%2C+love." alt="Typing SVG" /></a>
 </p>
 
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=corpsoil&color=lightgrey&abbreviated=true&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+
 <div>
-  <p align="center" dir="auto">
-  <img src="https://i.pinimg.com/736x/33/17/90/331790c54d36cb3b7ad214526ca2700b.jpg" alt="light imagay"width="1000" height="800">
+  <p align="center">
+  <img src="https://i.pinimg.com/736x/33/17/90/331790c54d36cb3b7ad214526ca2700b.jpg" alt="light imagay"width="500" height="300">
     </div>
+  <div>
+    <p align="center">
+  <a href="https://your-atabook-link.com" target="_blank">ATA</a>  ㅤ
+  <a href="https://rentry.co/bloodcanvas" target="_blank">RENTRY</a>
+</p>
+
   </p>
   <div>
  <br>
