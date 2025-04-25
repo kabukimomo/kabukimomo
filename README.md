@@ -13,7 +13,6 @@
   <div>
  <br>
   <img src="https://static.wikia.nocookie.net/planetoftheapes/images/1/1f/Caesar_-_CE_%282%29.png/revision/latest?cb=20220402161204" alt="Girl in a jacket" width="40" height="40">
-  </div>
   
 <kbd>
   <br>
