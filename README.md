@@ -1,13 +1,11 @@
 <div class="markdown heading" dir="auto">
 <h3 align="center" class="heading-element" dir="auto"> lol hi</h3>
 <hr> </hr> 
-<p align="center" dir="auto">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&duration=4000&pause=1000&color=e4ddd3&width=700&lines=There+are+many+types+of+monsters+in+this+world.;Monsters+who+will+not+show+themselves+and+cause+trouble.;Monsters+who+abduct+children.;Monsters+who+devour+nightmares.;Monsters+who+always+tell+lies.;Lying+monsters+are+a+real+nuisance.;この世には様々な種類の怪物がいる。;姿を見せずに災いをもたらす怪物。;子供をさらう怪物。;悪夢を喰らう怪物。;常に嘘をつく怪物。;嘘をつく怪物は本当に迷惑だ。" alt="Typing SVG" />
-</a>
-</a>
-</p>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&duration=2000&pause=300&color=e4ddd3&width=700&lines=There+are+many+types+of+monsters+in+this+world.;Monsters+who+will+not+show+themselves+and+cause+trouble.;Monsters+who+abduct+children.;Monsters+who+devour+nightmares.;Monsters+who+always+tell+lies.;Lying+monsters+are+a+real+nuisance.;この世には様々な種類の怪物がいる。;姿を見せずに災いをもたらす怪物。;子供をさらう怪物。;悪夢を喰らう怪物。;常に嘘をつく怪物。;嘘をつく怪物は本当に迷惑だ。" alt="Typing SVG" />
+  </a>
+</div>
 
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=corpsoil&color=lightgrey&abbreviated=true&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
