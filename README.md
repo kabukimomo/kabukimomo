@@ -14,7 +14,7 @@
 
 <div>
   <p align="center">
-  <img src="https://i.pinimg.com/736x/33/17/90/331790c54d36cb3b7ad214526ca2700b.jpg" alt="light imagay"width="500" height="300">
+  <img src="https://i.pinimg.com/originals/a1/c6/2c/a1c62c3992371b5a2bd28a4632006125.gif" alt="light imagay"width="500" height="300">
     </div>
   <div>
     <p align="center">
@@ -22,7 +22,7 @@
   <a href="https://rentry.co/bloodcanvas" target="_blank">RENTRY</a>
 </p>
 
-  </p>
+ 
   <div>
  <br>
   <img src="https://static.wikia.nocookie.net/planetoftheapes/images/1/1f/Caesar_-_CE_%282%29.png/revision/latest?cb=20220402161204" alt="Girl in a jacket" width="40" height="40">
