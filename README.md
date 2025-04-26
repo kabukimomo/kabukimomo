@@ -18,7 +18,7 @@
     </div>
   <div>
     <p align="center">
-  <a href="https://spacehey.com/corpsia" target="_blank">SPACE</a>  ㅤ
+  <a href="https://spacehey.com/corpsia" target="_blank">MYSPACE</a>  ㅤ
   <a href="https://rentry.co/bloodcanvas" target="_blank">RENTRY</a>
 </p>
 
