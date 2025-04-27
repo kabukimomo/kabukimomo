@@ -20,6 +20,7 @@
     <p align="center">
   <a href="https://spacehey.com/corpsia" target="_blank">MYSPACE</a>  ㅤ
   <a href="https://rentry.co/bloodcanvas" target="_blank">RENTRY</a>
+  <a href="https://corpsoil.atabook.org" target="_blank">ATA</a>
 </p>
 
  
