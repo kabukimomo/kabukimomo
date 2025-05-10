@@ -19,7 +19,7 @@
   <div>
     <p align="center">
   <a href="https://spacehey.com/corpsia" target="_blank">MYSPACE</a>  ㅤ
-  <a href="https://rentry.co/bloodcanvas" target="_blank">RENTRY</a>
+  <a href="https://rentry.co/corpsoil" target="_blank">RENTRY</a>
 </p>
 <div>
     <p align="center">
