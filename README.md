@@ -23,8 +23,8 @@
 </p>
 <div>
     <p align="center">
-  <a href="https://corpsoil.atabook.org" target="_blank">ATA</a>
-  <a href="https://corpsia.straw.page" target="_blank">STRAW</a>  ㅤ
+  <a href="https://corpsoil.atabook.org" target="_blank">ATA</a>  ㅤ
+  <a href="https://corpsia.straw.page" target="_blank">STRAW</a> ㅤ
 </p>
  
   <div>
