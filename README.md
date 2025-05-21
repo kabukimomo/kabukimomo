@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://rentry.org/your-first"> ʀᴇɴᴛʀʏ </a> ・
-  <a href="https://rentry.org/your-second"> ʀᴇɴᴛʀʏ 2</a>
+  <a href="https://rentry.co/corpsoil"> ʀᴇɴᴛʀʏ </a> ・
+  <a href="https://rentry.co/corpsiouxxe"> ʀᴇɴᴛʀʏ 2</a>
 </p>
 
 <p align="center">
-  <a href="https://strawpage.io/"> ꜱᴛʀᴀᴡᴘᴀɢᴇ</a> ・
-  <a href="https://atabook.com/"> ᴀᴛᴀʙᴏᴏᴋ</a>
+  <a href="https://corpsia.straw.page"> ꜱᴛʀᴀᴡᴘᴀɢᴇ</a> ・
+  <a href="https://corpsoil.atabook.org"> ᴀᴛᴀʙᴏᴏᴋ</a>
 </p>
 <!---
 VANISHING-REVERIES/VANISHING-REVERIES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
