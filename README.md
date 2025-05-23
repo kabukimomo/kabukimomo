@@ -29,6 +29,9 @@
   <a href="https://corpsia.straw.page"> ꜱᴛʀᴀᴡᴘᴀɢᴇ</a> ・
   <a href="https://corpsoil.atabook.org"> ᴀᴛᴀʙᴏᴏᴋ</a>
 </p>
+
+<p align="center" style="font-family: monospace;">
+  ❴ <a href="https://your.interest.list/">ᴇxᴛᴇɴᴅᴇᴅ ᴋɪɴʟɪꜱᴛ</a> ❵
 <!---
 VANISHING-REVERIES/VANISHING-REVERIES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
