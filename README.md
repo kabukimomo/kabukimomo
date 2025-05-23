@@ -31,7 +31,7 @@
 </p>
 
 <p align="center" style="font-family: monospace;">
-  ❴ <a href="https://your.interest.list/">ᴇxᴛᴇɴᴅᴇᴅ ᴋɪɴʟɪꜱᴛ</a> ❵
+  ❴ <a href="https://pronouns.cc/@Corset">ᴇxᴛᴇɴᴅᴇᴅ ᴋɪɴʟɪꜱᴛ</a> ❵
 <!---
 VANISHING-REVERIES/VANISHING-REVERIES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
