@@ -12,7 +12,7 @@
 
 <div>
  <p align="center">
-  <img src="https://files.catbox.moe/4z92f8.png" width="150" alt="character">
+  <img src="https://files.catbox.moe/djenyo.gif" width="150" alt="character">
 </p>
 
 
