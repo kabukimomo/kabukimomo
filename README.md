@@ -1,7 +1,8 @@
 <div align="center">
 <div class="markdown heading" dir="auto">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&duration=2000&pause=300&color=e4ddd3&width=700&center=true&lines=There+are+many+types+of+monsters+in+this+world.;Monsters+who+will+not+show+themselves+and+cause+trouble.;Monsters+who+abduct+children.;Monsters+who+devour+dreams.;Monsters+who+suck+blood.;And...;Monsters+who+always+tell+lies.;Lying+monsters+are+a+real+nuisance." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&duration=2000&pause=300&color=e4ddd3&width=700&center=true&lines=愛して+愛して+愛して;もっともっと;愛して+愛して+狂おしいほどに" alt="Typing SVG" />
+
   </a>
 </div>
 
