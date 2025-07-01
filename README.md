@@ -6,7 +6,7 @@
 </div>
 
  <p align="center">
- <img src="https://files.catbox.moe/6rif3u.png" alt="wing 1"> <img src="https://komarev.com/ghpvc/?username=corpsoil&color=lightgrey&abbreviated=true&style=plastic&label=🗡" alt="Profile Views" /> <img src="https://files.catbox.moe/y4x3m8.png" alt="wing 2">
+ <img src="https://files.catbox.moe/6rif3u.png" alt="wing 1"> <img src="https://komarev.com/ghpvc/?username=corpsoil&color=blueviolet&abbreviated=true&style=flat&label=🗡" alt="Profile Views" /> <img src="https://files.catbox.moe/y4x3m8.png" alt="wing 2">
 </p>
 
 
